@@ -1,0 +1,434 @@
+GEO.id,GEO.id2,GEO.display-label,GEO.annotation.id,NAICS.id,NAICS.display-label,NAICS.annotation.id,ASECBO.id,ASECBO.display-label,YIBSZFI.id,YIBSZFI.display-label,ACQBUS.id,ACQBUS.display-label,YEAR.id,OWNPDEMP,OWNPDEMP_PCT,OWNPDEMP_S,OWNPDEMP_PCT_S
+Geographic identifier code,Id2,Geographic area name,Id,2012 NAICS code,Meaning of 2012 NAICS code,Id,"Gender, ethnicity, race, and veteran status code","Meaning of Gender, ethnicity, race, and veteran status code",Years in business code,Meaning of Years in business code,How the owner initially acquired the business code,Meaning of How the owner initially acquired the business code,Year,Number of owners of respondent firms with paid employees ,Percent of number of owners of respondent firms with paid employees (%) ,Relative standard error of number of owners of respondent firms with paid employees (%) ,Standard error of percent of number of owners of respondent firms with paid employees (%) 
+0100000US,,United States,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,00,Total for all sectors,,00,All owners of respondent firms,311,Firms with less than 2 years in business,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,00,Total for all sectors,,00,All owners of respondent firms,318,Firms with 2 to 3 years in business,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,00,Total for all sectors,,00,All owners of respondent firms,319,Firms with 4 to 5 years in business,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,00,Total for all sectors,,00,All owners of respondent firms,321,Firms with 6 to 10 years in business,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,00,Total for all sectors,,00,All owners of respondent firms,322,Firms with 11 to 15 years in business,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,00,Total for all sectors,,00,All owners of respondent firms,323,Firms with 16 or more years in business,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,00,Total for all sectors,,01,Female,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,00,Total for all sectors,,02,Male,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,00,Total for all sectors,,20,Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,00,Total for all sectors,,29,Non-Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,00,Total for all sectors,,30,White,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,00,Total for all sectors,,40,Black or African American,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,00,Total for all sectors,,50,American Indian and Alaska Native,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,00,Total for all sectors,,60,Asian,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,00,Total for all sectors,,70,Native Hawaiian and Other Pacific Islander,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,00,Total for all sectors,,80,Some other race,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,00,Total for all sectors,,90,Minority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,00,Total for all sectors,,92,Nonminority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,00,Total for all sectors,,V2,Veteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,00,Total for all sectors,,V4,Nonveteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,11,"Agriculture, forestry, fishing and hunting",FNOTE$650,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,11,"Agriculture, forestry, fishing and hunting",FNOTE$650,01,Female,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,11,"Agriculture, forestry, fishing and hunting",FNOTE$650,02,Male,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,11,"Agriculture, forestry, fishing and hunting",FNOTE$650,20,Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,11,"Agriculture, forestry, fishing and hunting",FNOTE$650,29,Non-Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,11,"Agriculture, forestry, fishing and hunting",FNOTE$650,30,White,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,11,"Agriculture, forestry, fishing and hunting",FNOTE$650,40,Black or African American,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,11,"Agriculture, forestry, fishing and hunting",FNOTE$650,50,American Indian and Alaska Native,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,11,"Agriculture, forestry, fishing and hunting",FNOTE$650,60,Asian,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,11,"Agriculture, forestry, fishing and hunting",FNOTE$650,70,Native Hawaiian and Other Pacific Islander,001,All firms,CA,Founded or started,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,11,"Agriculture, forestry, fishing and hunting",FNOTE$650,70,Native Hawaiian and Other Pacific Islander,001,All firms,CB,Purchased,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,11,"Agriculture, forestry, fishing and hunting",FNOTE$650,70,Native Hawaiian and Other Pacific Islander,001,All firms,CC,Inherited,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,11,"Agriculture, forestry, fishing and hunting",FNOTE$650,70,Native Hawaiian and Other Pacific Islander,001,All firms,CD,Transfer of ownership or gift,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,11,"Agriculture, forestry, fishing and hunting",FNOTE$650,70,Native Hawaiian and Other Pacific Islander,001,All firms,CE,Total reporting,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,11,"Agriculture, forestry, fishing and hunting",FNOTE$650,70,Native Hawaiian and Other Pacific Islander,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,11,"Agriculture, forestry, fishing and hunting",FNOTE$650,80,Some other race,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,11,"Agriculture, forestry, fishing and hunting",FNOTE$650,90,Minority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,11,"Agriculture, forestry, fishing and hunting",FNOTE$650,92,Nonminority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,11,"Agriculture, forestry, fishing and hunting",FNOTE$650,V2,Veteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,11,"Agriculture, forestry, fishing and hunting",FNOTE$650,V4,Nonveteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,21,"Mining, quarrying, and oil and gas extraction",,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,21,"Mining, quarrying, and oil and gas extraction",,01,Female,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,21,"Mining, quarrying, and oil and gas extraction",,02,Male,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,21,"Mining, quarrying, and oil and gas extraction",,20,Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,21,"Mining, quarrying, and oil and gas extraction",,29,Non-Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,21,"Mining, quarrying, and oil and gas extraction",,30,White,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,21,"Mining, quarrying, and oil and gas extraction",,40,Black or African American,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,21,"Mining, quarrying, and oil and gas extraction",,50,American Indian and Alaska Native,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,21,"Mining, quarrying, and oil and gas extraction",,60,Asian,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,21,"Mining, quarrying, and oil and gas extraction",,70,Native Hawaiian and Other Pacific Islander,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,21,"Mining, quarrying, and oil and gas extraction",,80,Some other race,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,21,"Mining, quarrying, and oil and gas extraction",,90,Minority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,21,"Mining, quarrying, and oil and gas extraction",,92,Nonminority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,21,"Mining, quarrying, and oil and gas extraction",,V2,Veteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,21,"Mining, quarrying, and oil and gas extraction",,V4,Nonveteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,22,Utilities,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,22,Utilities,,01,Female,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,22,Utilities,,02,Male,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,22,Utilities,,20,Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,22,Utilities,,29,Non-Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,22,Utilities,,30,White,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,22,Utilities,,40,Black or African American,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,22,Utilities,,50,American Indian and Alaska Native,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,22,Utilities,,60,Asian,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,22,Utilities,,70,Native Hawaiian and Other Pacific Islander,001,All firms,CA,Founded or started,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,22,Utilities,,70,Native Hawaiian and Other Pacific Islander,001,All firms,CB,Purchased,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,22,Utilities,,70,Native Hawaiian and Other Pacific Islander,001,All firms,CC,Inherited,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,22,Utilities,,70,Native Hawaiian and Other Pacific Islander,001,All firms,CD,Transfer of ownership or gift,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,22,Utilities,,70,Native Hawaiian and Other Pacific Islander,001,All firms,CE,Total reporting,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,22,Utilities,,70,Native Hawaiian and Other Pacific Islander,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,22,Utilities,,80,Some other race,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,22,Utilities,,90,Minority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,22,Utilities,,92,Nonminority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,22,Utilities,,V2,Veteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,22,Utilities,,V4,Nonveteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,23,Construction,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,23,Construction,,01,Female,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,23,Construction,,02,Male,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,23,Construction,,20,Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,23,Construction,,29,Non-Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,23,Construction,,30,White,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,23,Construction,,40,Black or African American,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,23,Construction,,50,American Indian and Alaska Native,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,23,Construction,,60,Asian,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,23,Construction,,70,Native Hawaiian and Other Pacific Islander,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,23,Construction,,80,Some other race,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,23,Construction,,90,Minority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,23,Construction,,92,Nonminority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,23,Construction,,V2,Veteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,23,Construction,,V4,Nonveteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,31-33,Manufacturing,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,31-33,Manufacturing,,01,Female,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,31-33,Manufacturing,,02,Male,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,31-33,Manufacturing,,20,Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,31-33,Manufacturing,,29,Non-Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,31-33,Manufacturing,,30,White,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,31-33,Manufacturing,,40,Black or African American,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,31-33,Manufacturing,,50,American Indian and Alaska Native,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,31-33,Manufacturing,,60,Asian,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,31-33,Manufacturing,,70,Native Hawaiian and Other Pacific Islander,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,31-33,Manufacturing,,80,Some other race,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,31-33,Manufacturing,,90,Minority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,31-33,Manufacturing,,92,Nonminority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,31-33,Manufacturing,,V2,Veteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,31-33,Manufacturing,,V4,Nonveteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,42,Wholesale trade,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,42,Wholesale trade,,01,Female,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,42,Wholesale trade,,02,Male,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,42,Wholesale trade,,20,Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,42,Wholesale trade,,29,Non-Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,42,Wholesale trade,,30,White,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,42,Wholesale trade,,40,Black or African American,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,42,Wholesale trade,,50,American Indian and Alaska Native,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,42,Wholesale trade,,60,Asian,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,42,Wholesale trade,,70,Native Hawaiian and Other Pacific Islander,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,42,Wholesale trade,,80,Some other race,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,42,Wholesale trade,,90,Minority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,42,Wholesale trade,,92,Nonminority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,42,Wholesale trade,,V2,Veteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,42,Wholesale trade,,V4,Nonveteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,44-45,Retail trade,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,44-45,Retail trade,,01,Female,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,44-45,Retail trade,,02,Male,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,44-45,Retail trade,,20,Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,44-45,Retail trade,,29,Non-Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,44-45,Retail trade,,30,White,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,44-45,Retail trade,,40,Black or African American,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,44-45,Retail trade,,50,American Indian and Alaska Native,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,44-45,Retail trade,,60,Asian,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,44-45,Retail trade,,70,Native Hawaiian and Other Pacific Islander,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,44-45,Retail trade,,80,Some other race,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,44-45,Retail trade,,90,Minority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,44-45,Retail trade,,92,Nonminority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,44-45,Retail trade,,V2,Veteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,44-45,Retail trade,,V4,Nonveteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,48-49,Transportation and warehousing,FNOTE$651,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,48-49,Transportation and warehousing,FNOTE$651,01,Female,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,48-49,Transportation and warehousing,FNOTE$651,02,Male,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,48-49,Transportation and warehousing,FNOTE$651,20,Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,48-49,Transportation and warehousing,FNOTE$651,29,Non-Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,48-49,Transportation and warehousing,FNOTE$651,30,White,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,48-49,Transportation and warehousing,FNOTE$651,40,Black or African American,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,48-49,Transportation and warehousing,FNOTE$651,50,American Indian and Alaska Native,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,48-49,Transportation and warehousing,FNOTE$651,60,Asian,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,48-49,Transportation and warehousing,FNOTE$651,70,Native Hawaiian and Other Pacific Islander,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,48-49,Transportation and warehousing,FNOTE$651,80,Some other race,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,48-49,Transportation and warehousing,FNOTE$651,90,Minority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,48-49,Transportation and warehousing,FNOTE$651,92,Nonminority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,48-49,Transportation and warehousing,FNOTE$651,V2,Veteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,48-49,Transportation and warehousing,FNOTE$651,V4,Nonveteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,51,Information,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,51,Information,,01,Female,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,51,Information,,02,Male,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,51,Information,,20,Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,51,Information,,29,Non-Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,51,Information,,30,White,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,51,Information,,40,Black or African American,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,51,Information,,50,American Indian and Alaska Native,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,51,Information,,60,Asian,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,51,Information,,70,Native Hawaiian and Other Pacific Islander,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,51,Information,,80,Some other race,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,51,Information,,90,Minority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,51,Information,,92,Nonminority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,51,Information,,V2,Veteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,51,Information,,V4,Nonveteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,52,Finance and insurance,FNOTE$652,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,52,Finance and insurance,FNOTE$652,01,Female,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,52,Finance and insurance,FNOTE$652,02,Male,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,52,Finance and insurance,FNOTE$652,20,Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,52,Finance and insurance,FNOTE$652,29,Non-Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,52,Finance and insurance,FNOTE$652,30,White,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,52,Finance and insurance,FNOTE$652,40,Black or African American,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,52,Finance and insurance,FNOTE$652,50,American Indian and Alaska Native,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,52,Finance and insurance,FNOTE$652,60,Asian,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,52,Finance and insurance,FNOTE$652,70,Native Hawaiian and Other Pacific Islander,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,52,Finance and insurance,FNOTE$652,80,Some other race,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,52,Finance and insurance,FNOTE$652,90,Minority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,52,Finance and insurance,FNOTE$652,92,Nonminority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,52,Finance and insurance,FNOTE$652,V2,Veteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,52,Finance and insurance,FNOTE$652,V4,Nonveteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,53,Real estate and rental and leasing,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,53,Real estate and rental and leasing,,01,Female,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,53,Real estate and rental and leasing,,02,Male,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,53,Real estate and rental and leasing,,20,Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,53,Real estate and rental and leasing,,29,Non-Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,53,Real estate and rental and leasing,,30,White,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,53,Real estate and rental and leasing,,40,Black or African American,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,53,Real estate and rental and leasing,,50,American Indian and Alaska Native,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,53,Real estate and rental and leasing,,60,Asian,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,53,Real estate and rental and leasing,,70,Native Hawaiian and Other Pacific Islander,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,53,Real estate and rental and leasing,,80,Some other race,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,53,Real estate and rental and leasing,,90,Minority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,53,Real estate and rental and leasing,,92,Nonminority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,53,Real estate and rental and leasing,,V2,Veteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,53,Real estate and rental and leasing,,V4,Nonveteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,54,"Professional, scientific, and technical services",,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,54,"Professional, scientific, and technical services",,01,Female,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,54,"Professional, scientific, and technical services",,02,Male,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,54,"Professional, scientific, and technical services",,20,Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,54,"Professional, scientific, and technical services",,29,Non-Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,54,"Professional, scientific, and technical services",,30,White,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,54,"Professional, scientific, and technical services",,40,Black or African American,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,54,"Professional, scientific, and technical services",,50,American Indian and Alaska Native,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,54,"Professional, scientific, and technical services",,60,Asian,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,54,"Professional, scientific, and technical services",,70,Native Hawaiian and Other Pacific Islander,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,54,"Professional, scientific, and technical services",,80,Some other race,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,54,"Professional, scientific, and technical services",,90,Minority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,54,"Professional, scientific, and technical services",,92,Nonminority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,54,"Professional, scientific, and technical services",,V2,Veteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,54,"Professional, scientific, and technical services",,V4,Nonveteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,55,Management of companies and enterprises,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,55,Management of companies and enterprises,,01,Female,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,55,Management of companies and enterprises,,02,Male,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,55,Management of companies and enterprises,,20,Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,55,Management of companies and enterprises,,29,Non-Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,55,Management of companies and enterprises,,30,White,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,55,Management of companies and enterprises,,40,Black or African American,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,55,Management of companies and enterprises,,50,American Indian and Alaska Native,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,55,Management of companies and enterprises,,60,Asian,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,55,Management of companies and enterprises,,70,Native Hawaiian and Other Pacific Islander,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,55,Management of companies and enterprises,,80,Some other race,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,55,Management of companies and enterprises,,90,Minority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,55,Management of companies and enterprises,,92,Nonminority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,55,Management of companies and enterprises,,V2,Veteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,55,Management of companies and enterprises,,V4,Nonveteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,56,Administrative and support and waste management and remediation services,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,56,Administrative and support and waste management and remediation services,,01,Female,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,56,Administrative and support and waste management and remediation services,,02,Male,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,56,Administrative and support and waste management and remediation services,,20,Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,56,Administrative and support and waste management and remediation services,,29,Non-Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,56,Administrative and support and waste management and remediation services,,30,White,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,56,Administrative and support and waste management and remediation services,,40,Black or African American,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,56,Administrative and support and waste management and remediation services,,50,American Indian and Alaska Native,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,56,Administrative and support and waste management and remediation services,,60,Asian,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,56,Administrative and support and waste management and remediation services,,70,Native Hawaiian and Other Pacific Islander,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,56,Administrative and support and waste management and remediation services,,80,Some other race,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,56,Administrative and support and waste management and remediation services,,90,Minority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,56,Administrative and support and waste management and remediation services,,92,Nonminority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,56,Administrative and support and waste management and remediation services,,V2,Veteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,56,Administrative and support and waste management and remediation services,,V4,Nonveteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,61,Educational services,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,61,Educational services,,01,Female,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,61,Educational services,,02,Male,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,61,Educational services,,20,Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,61,Educational services,,29,Non-Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,61,Educational services,,30,White,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,61,Educational services,,40,Black or African American,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,61,Educational services,,50,American Indian and Alaska Native,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,61,Educational services,,60,Asian,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,61,Educational services,,70,Native Hawaiian and Other Pacific Islander,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,61,Educational services,,80,Some other race,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,61,Educational services,,90,Minority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,61,Educational services,,92,Nonminority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,61,Educational services,,V2,Veteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,61,Educational services,,V4,Nonveteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,62,Health care and social assistance,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,62,Health care and social assistance,,01,Female,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,62,Health care and social assistance,,02,Male,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,62,Health care and social assistance,,20,Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,62,Health care and social assistance,,29,Non-Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,62,Health care and social assistance,,30,White,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,62,Health care and social assistance,,40,Black or African American,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,62,Health care and social assistance,,50,American Indian and Alaska Native,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,62,Health care and social assistance,,60,Asian,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,62,Health care and social assistance,,70,Native Hawaiian and Other Pacific Islander,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,62,Health care and social assistance,,80,Some other race,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,62,Health care and social assistance,,90,Minority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,62,Health care and social assistance,,92,Nonminority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,62,Health care and social assistance,,V2,Veteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,62,Health care and social assistance,,V4,Nonveteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,71,"Arts, entertainment, and recreation",,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,71,"Arts, entertainment, and recreation",,01,Female,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,71,"Arts, entertainment, and recreation",,02,Male,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,71,"Arts, entertainment, and recreation",,20,Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,71,"Arts, entertainment, and recreation",,29,Non-Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,71,"Arts, entertainment, and recreation",,30,White,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,71,"Arts, entertainment, and recreation",,40,Black or African American,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,71,"Arts, entertainment, and recreation",,50,American Indian and Alaska Native,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,71,"Arts, entertainment, and recreation",,60,Asian,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,71,"Arts, entertainment, and recreation",,70,Native Hawaiian and Other Pacific Islander,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,71,"Arts, entertainment, and recreation",,80,Some other race,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,71,"Arts, entertainment, and recreation",,90,Minority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,71,"Arts, entertainment, and recreation",,92,Nonminority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,71,"Arts, entertainment, and recreation",,V2,Veteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,71,"Arts, entertainment, and recreation",,V4,Nonveteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,72,Accommodation and food services,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,72,Accommodation and food services,,01,Female,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,72,Accommodation and food services,,02,Male,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,72,Accommodation and food services,,20,Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,72,Accommodation and food services,,29,Non-Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,72,Accommodation and food services,,30,White,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,72,Accommodation and food services,,40,Black or African American,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,72,Accommodation and food services,,50,American Indian and Alaska Native,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,72,Accommodation and food services,,60,Asian,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,72,Accommodation and food services,,70,Native Hawaiian and Other Pacific Islander,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,72,Accommodation and food services,,80,Some other race,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,72,Accommodation and food services,,90,Minority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,72,Accommodation and food services,,92,Nonminority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,72,Accommodation and food services,,V2,Veteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,72,Accommodation and food services,,V4,Nonveteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,81,Other services (except public administration),FNOTE$653,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,81,Other services (except public administration),FNOTE$653,01,Female,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,81,Other services (except public administration),FNOTE$653,02,Male,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,81,Other services (except public administration),FNOTE$653,20,Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,81,Other services (except public administration),FNOTE$653,29,Non-Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,81,Other services (except public administration),FNOTE$653,30,White,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,81,Other services (except public administration),FNOTE$653,40,Black or African American,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,81,Other services (except public administration),FNOTE$653,50,American Indian and Alaska Native,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,81,Other services (except public administration),FNOTE$653,60,Asian,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,81,Other services (except public administration),FNOTE$653,70,Native Hawaiian and Other Pacific Islander,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,81,Other services (except public administration),FNOTE$653,80,Some other race,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,81,Other services (except public administration),FNOTE$653,90,Minority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,81,Other services (except public administration),FNOTE$653,92,Nonminority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,81,Other services (except public administration),FNOTE$653,V2,Veteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,81,Other services (except public administration),FNOTE$653,V4,Nonveteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,99,Industries not classified,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,99,Industries not classified,,01,Female,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,99,Industries not classified,,02,Male,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,99,Industries not classified,,20,Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,99,Industries not classified,,29,Non-Hispanic,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,99,Industries not classified,,30,White,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,99,Industries not classified,,40,Black or African American,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,99,Industries not classified,,50,American Indian and Alaska Native,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,99,Industries not classified,,60,Asian,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,99,Industries not classified,,70,Native Hawaiian and Other Pacific Islander,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,99,Industries not classified,,80,Some other race,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,99,Industries not classified,,90,Minority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,99,Industries not classified,,92,Nonminority,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,99,Industries not classified,,V2,Veteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0100000US,,United States,,99,Industries not classified,,V4,Nonveteran,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US01,01,Alabama,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US02,02,Alaska,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US04,04,Arizona,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US05,05,Arkansas,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US06,06,California,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US08,08,Colorado,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US09,09,Connecticut,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US10,10,Delaware,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US11,11,District of Columbia,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US12,12,Florida,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US13,13,Georgia,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US15,15,Hawaii,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US16,16,Idaho,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US17,17,Illinois,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US18,18,Indiana,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US19,19,Iowa,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US20,20,Kansas,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US21,21,Kentucky,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US22,22,Louisiana,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US23,23,Maine,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US24,24,Maryland,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US25,25,Massachusetts,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US26,26,Michigan,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US27,27,Minnesota,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US28,28,Mississippi,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US29,29,Missouri,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US30,30,Montana,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US31,31,Nebraska,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US32,32,Nevada,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US33,33,New Hampshire,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US34,34,New Jersey,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US35,35,New Mexico,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US36,36,New York,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US37,37,North Carolina,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US38,38,North Dakota,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US39,39,Ohio,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US40,40,Oklahoma,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US41,41,Oregon,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US42,42,Pennsylvania,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US44,44,Rhode Island,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US45,45,South Carolina,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US46,46,South Dakota,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US47,47,Tennessee,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US48,48,Texas,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US49,49,Utah,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US50,50,Vermont,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US51,51,Virginia,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US53,53,Washington,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US54,54,West Virginia,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US55,55,Wisconsin,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+0400000US56,56,Wyoming,,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US12060,12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US12420,12420,"Austin-Round Rock, TX Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US12580,12580,"Baltimore-Columbia-Towson, MD Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US13820,13820,"Birmingham-Hoover, AL Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US14460,14460,"Boston-Cambridge-Newton, MA-NH Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US15380,15380,"Buffalo-Cheektowaga-Niagara Falls, NY Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US16740,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US16980,16980,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US17140,17140,"Cincinnati, OH-KY-IN Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US17460,17460,"Cleveland-Elyria, OH Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US18140,18140,"Columbus, OH Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US19100,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US19740,19740,"Denver-Aurora-Lakewood, CO Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US19820,19820,"Detroit-Warren-Dearborn, MI Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US25540,25540,"Hartford-West Hartford-East Hartford, CT Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US26420,26420,"Houston-The Woodlands-Sugar Land, TX Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US26900,26900,"Indianapolis-Carmel-Anderson, IN Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US27260,27260,"Jacksonville, FL Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US28140,28140,"Kansas City, MO-KS Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US29820,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US31080,31080,"Los Angeles-Long Beach-Anaheim, CA Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US31140,31140,"Louisville/Jefferson County, KY-IN Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US32820,32820,"Memphis, TN-MS-AR Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US33100,33100,"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US33340,33340,"Milwaukee-Waukesha-West Allis, WI Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US33460,33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US34980,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US35380,35380,"New Orleans-Metairie, LA Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US35620,35620,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US36420,36420,"Oklahoma City, OK Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US36740,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US37980,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US38060,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US38300,38300,"Pittsburgh, PA Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US38900,38900,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US39300,39300,"Providence-Warwick, RI-MA Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US39580,39580,"Raleigh, NC Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US40060,40060,"Richmond, VA Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US40140,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US40900,40900,"Sacramento--Roseville--Arden-Arcade, CA Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US41180,41180,"St. Louis, MO-IL Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US41620,41620,"Salt Lake City, UT Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US41700,41700,"San Antonio-New Braunfels, TX Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US41740,41740,"San Diego-Carlsbad, CA Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US41860,41860,"San Francisco-Oakland-Hayward, CA Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US41940,41940,"San Jose-Sunnyvale-Santa Clara, CA Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US42660,42660,"Seattle-Tacoma-Bellevue, WA Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US45300,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US47260,47260,"Virginia Beach-Norfolk-Newport News, VA-NC Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X
+310M200US47900,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",,00,Total for all sectors,,00,All owners of respondent firms,001,All firms,CF,Item not reported,2016,,ECONF$X,,ECONF$X

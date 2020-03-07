@@ -1,0 +1,18 @@
+GEO.id,Geographic identifier code
+GEO.id2,Id2
+GEO.display-label,Geographic area name
+GEO.annotation.id,Id
+NAICS.id,2012 NAICS code
+NAICS.display-label,Meaning of 2012 NAICS code
+NAICS.annotation.id,Id
+ASECBO.id,"Gender, ethnicity, race, and veteran status code"
+ASECBO.display-label,"Meaning of Gender, ethnicity, race, and veteran status code"
+YIBSZFI.id,Years in business code
+YIBSZFI.display-label,Meaning of Years in business code
+ACQBUS.id,How the owner initially acquired the business code
+ACQBUS.display-label,Meaning of How the owner initially acquired the business code
+YEAR.id,Year
+OWNPDEMP,Number of owners of respondent firms with paid employees 
+OWNPDEMP_PCT,Percent of number of owners of respondent firms with paid employees (%) 
+OWNPDEMP_S,Relative standard error of number of owners of respondent firms with paid employees (%) 
+OWNPDEMP_PCT_S,Standard error of percent of number of owners of respondent firms with paid employees (%) 

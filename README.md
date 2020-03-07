@@ -17,7 +17,10 @@ https://www.kaggle.com/jboysen/us-perm-visas#us_perm_visas.csv
 	Will upload a copy of SQL script file for replication
 
 Data Set 2 | Kannan | csv file U.S. Entreprenuership
-https://www.census.gov/data/developers/data-sets/ase.html
+
+	Sources
+		https://www.census.gov/data/developers/data-sets/ase.html
+		https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk#
 
 	Kannan will pull Census data, focus on entrepreneurship, 	filtering on years, 2014-2016, and combining all years 	into one table
 
