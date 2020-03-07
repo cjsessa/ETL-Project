@@ -1,0 +1,44 @@
+-- Database: ETL_Project
+
+-- DROP DATABASE "ETL_Project";
+
+CREATE DATABASE "ETL_Project"
+    WITH
+    OWNER = postgres
+    ENCODING = 'UTF8'
+    LC_COLLATE = 'C'
+    LC_CTYPE = 'C'
+    TABLESPACE = pg_default
+    CONNECTION LIMIT = -1;
+
+
+CREATE TABLE visa_data (
+case_number INT PRIMARY KEY,
+case_status VARCHAR(100),
+class_of_admission VARCHAR(100),
+country_of_citizenship VARCHAR(100),
+decision_date DATE,
+employer_country VARCHAR(100),
+employer_num_employees INT,
+employer_postal_code VARCHAR(100),
+employer_state VARCHAR(100),
+employer_yr_estab VARCHAR(100),
+foreign_worker_info_birth_country VARCHAR(100),
+foreign_worker_info_education VARCHAR(100),
+foreign_worker_info_major VARCHAR(100),
+foreign_worker_info_postal_code VARCHAR(100),
+foreign_worker_info_rel_occup_exp VARCHAR(100),
+foreign_worker_info_state VARCHAR(100),
+foreign_worker_info_training_comp VARCHAR(100),
+foreign_worker_ownership_interest VARCHAR(100),
+foreign_worker_yr_rel_edu_completed VARCHAR(100),
+ji_offered_to_sec_j_foreign_worker VARCHAR(100),
+job_info_education VARCHAR(100),
+job_info_work_postal_code VARCHAR(100),
+job_info_work_state VARCHAR(100),
+orig_file_date DATE,
+pw_amount_9089 VARCHAR(100),
+pw_unit_of_pay_9089 VARCHAR(100),
+wage_offer_from_9089 VARCHAR(100),
+wage_offer_unit_of_pay_9089	VARCHAR(100)
+);
