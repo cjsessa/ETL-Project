@@ -19,28 +19,33 @@
 -- creating crosswalk files between categorical data and corresponding numbers
 -- have to export manually, permission issues between PGadmin and folder
 -- PGadmin coding export can not use relative paths
+create table geo_codes as
 select distinct geo_id_code, geo_id_code1 
 from census_ASE
 order by geo_id_code1 asc;
 
+create table geo_area as
 select distinct geo_area_name, geo_area_name1 
 from census_ASE
 order by geo_area_name1 asc;
 
+create table naics as
 select distinct _2012_naics_code, _2012_naics_code1 
 from census_ASE
 order by _2012_naics_code1 asc;
 
+create table demo as
 select distinct _gender__ethnicity__race___veteran_status_code, _gender__ethnicity__race___veteran_status_code1 
 from census_ASE
 order by _gender__ethnicity__race___veteran_status_code1 asc;
 
+create table yrs_bus as
 select distinct _years_in_business_code, _years_in_business_code1 
 from census_ASE
 order by _years_in_business_code1 asc;
 
 -- reducing columns to coded categorical and remaining columns
-drop table census_ase_reduced;
+drop table census;
 create table census as
 select 
 geo_id_code1 as geo_id,
