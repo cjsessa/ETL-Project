@@ -44,6 +44,34 @@ wage_offer_unit_of_pay_9089	VARCHAR(100)
 );
 
 
+--mapping state name to visa data
+--374362 rows in raw visa data
+select count(*)
+from visa_data;
+
+--202999 rows after merge
+create table visa1 as 
+select a.*,b.*
+from visa_data as a
+inner join state_abb as b
+on (a.employer_state = UPPER(b.state));
+
+--170624 rows after merge
+create table visa2 as 
+select a.*,b.*
+from visa_data as a
+inner join state_abb as b
+on (a.employer_state = b.abb);
+
+--373623 rows after appending
+create table visa3 as 
+select * from visa1
+
+union all
+
+select * from visa2;
+
+
 
 --mapping in state name to census data
 create table census1 as 
@@ -64,20 +92,19 @@ on (a.geo_area_name = b.state);
 
 
 --merging census data with visa data
-drop table all_data;
+--2241732 observations
+--additional rows are from categorical variable, "number of years in business"
+--being listed by industry category
+
 create table all_data as
 select 
 a.geo_id,a.naics,a.gender_eth_race_vet,a.yrs_bus, a.num_bus_paid_emp,a.per_bus_paid_emp, a.se_bus_paid_emp, b.*
 from census2 as a
-inner join visa_st as b
+inner join visa3 as b
 on (a.state = b.state);
-
-
---2241732 observations
---unclear why there are additional rows. Will require further inspection to see why the join is creating the extra data
-
-select count(*)
-from all_data;
 
 drop table census1;
 drop table census2;
+drop table visa1;
+drop table visa2;
+drop table visa3;
