@@ -1,4 +1,4 @@
-geo_identifier_code,geo_area_name,_2012_naics_code,_gender__ethnicity__race__and_veteran_status_code,_years_in_business_code,geo_identifier_code1,geo_area_name1,_2012_naics_code1,_gender__ethnicity__race__and_veteran_status_code1,_years_in_business_code1,year,num__owners__respondent_firms_w_paid_emp_,per__num__owners__respondent_firms_w_paid_emp_per_,_se__num__owners__respondent_firms_w_paid_emp_per_
+geo_id_code,geo_area_name,_2012_naics_code,_gender__ethnicity__race___veteran_status_code,_years_in_business_code,geo_id_code1,geo_area_name1,_2012_naics_code1,_gender__ethnicity__race___veteran_status_code1,_years_in_business_code1,year,num__owners__respondent_firms_w_paid_emp_,per__num__owners__respondent_firms_w_paid_emp_per_,_se__num__owners__respondent_firms_w_paid_emp_per_
 0100000US,United States,Total for all sectors,All owners of respondent firms,All firms,0,92,17,0,0,2016,3641879,69.7,0.2
 0100000US,United States,Total for all sectors,All owners of respondent firms,All firms,0,92,17,0,0,2016,1114797,21.3,0.6
 0100000US,United States,Total for all sectors,All owners of respondent firms,All firms,0,92,17,0,0,2016,215576,4.1,1.2

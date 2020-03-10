@@ -42,3 +42,42 @@ pw_unit_of_pay_9089 VARCHAR(100),
 wage_offer_from_9089 VARCHAR(100),
 wage_offer_unit_of_pay_9089	VARCHAR(100)
 );
+
+
+
+--mapping in state name to census data
+create table census1 as 
+select a.*,b.*
+from census as a
+left join geo_area as b
+on (a.geo_area = b.geo_area_name1);
+
+--reducing census data to only states, removing any MSAs, etc
+--reduced rows from 2500+ to 306
+--seeing if reducing the excess rows in this dataset will reduce the number of rows after the merge, it does not
+
+create table census2 as 
+select a.*,b.*
+from census1 as a
+inner join state_abb as b
+on (a.geo_area_name = b.state);
+
+
+--merging census data with visa data
+drop table all_data;
+create table all_data as
+select 
+a.geo_id,a.naics,a.gender_eth_race_vet,a.yrs_bus, a.num_bus_paid_emp,a.per_bus_paid_emp, a.se_bus_paid_emp, b.*
+from census2 as a
+inner join visa_st as b
+on (a.state = b.state);
+
+
+--2241732 observations
+--unclear why there are additional rows. Will require further inspection to see why the join is creating the extra data
+
+select count(*)
+from all_data;
+
+drop table census1;
+drop table census2;
