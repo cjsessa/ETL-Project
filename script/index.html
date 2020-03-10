@@ -1,0 +1,31 @@
+<!DOCTYPE html?
+<html lang = "en">
+<head>
+  <meta charset = "UTF-8">
+  <title> ETL Project </title>
+</head>
+
+<h1>ETL Technical Write Up </h1>
+
+<h2>Resources</h2>
+<h3>U.S. Passport Data</h3>
+<p>https://www.kaggle.com/jboysen/us-perm-visas#us_perm_visas.csv</p>
+
+<h3>Census Entrepreneurial Data</h3>
+<p>https://www.census.gov/data/developers/data-sets/ase.html
+
+<h2>Objective</h2>
+<p>The objective is to create a database that combines the U.S. Passport data with the U.S. Census data. To complete this we used the ETL (export, transform, load) method to create a database in SQL. The final database includes the cleaned data of the Census & Passport data, and several crosswalk files, explained in more detail below. </p>
+
+<h2>Final Deliverable</h2>
+<p>Our final project has 13 tables with two main datasets, Census & Passport data, and one large dataset of the Census & Passport data joined together. The Census data’s categorical variables were separated into smaller crosswalk files, used to reduce the size of the dataset. All of our files were exported as CSVs for future use.
+    The Passport data contained messy data, with many blank entries and categorical entries being listed in varying ways (example: the state California would be CA & CALIFORNIA.) This made it difficult for the final merge between the Census & Passport data. In order to accomplish the merge, we found a crosswalk file of U.S. state & abbreviation to match the Passport data on first state, then abbreviation, and then use the UNION function in SQL to append the files. After this dataset was created, we merged this set back into the unique list of state/abbreviation combination. This created a dataset of Passport data that had both the correct format of State for each row. This data was joined to the census data using an inner join. In its current form, the data after this last merged increased greatly. It is unclear why that is, but will be a question for future projects.
+    </p>
+<h4>Data Process & Report</h4>
+<h5>Visa Passport Data</h5>
+<h6>Python</h6>
+<ul>
+    <li>Git Hub </li>
+    <li>Stack Overflow</li>
+    <li>Linkedin</li>
+  </ul>
